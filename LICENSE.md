@@ -292,8 +292,3 @@ SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
 DAMAGES.
 
 END OF TERMS AND CONDITIONS
-
-applications with the library. If this is what you want to do, use the
-[GNU Lesser General Public
-License](https://www.gnu.org/licenses/lgpl.html) instead of this
-License.
