@@ -1,10 +1,6 @@
-import { JSX } from "react";
 import { createLazyFileRoute } from "@tanstack/react-router";
+import About from "../pages/About";
 
 export const Route = createLazyFileRoute("/about")({
   component: About,
 });
-
-function About(): JSX.Element {
-  return <div className="p-2">Hello from About!</div>;
-}

@@ -1,5 +1,5 @@
 import { useState, JSX } from "react";
-import "./App.css";
+import "./Home.css";
 
 export default function App(): JSX.Element {
   const [count, setCount] = useState(0);
@@ -12,7 +12,7 @@ export default function App(): JSX.Element {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
+          Edit <code>src/Home.tsx</code> and save to test HMR
         </p>
       </div>
       <p className="read-the-docs">
